@@ -5,8 +5,8 @@
 .Card{
     display: flex;
     padding: 20px;
-    color: brown;
-    background: #f4e9de;
+    color: orangered;
+    background: yellowgreen;
     justify-content: space-around;
     width: 400px;
     margin: 0 auto;
